@@ -24,8 +24,10 @@ open the files with MetaQuotes Language Editor (F4)
 Click Compile to generatel .ext files
 drag the .ext file from Navigator to your charts of preferred symbols
 
-
-
+- 20% lines in phone MT5 
+if 20% lines are desired in phone MT5, manual inputs of each lines is mandatory and easy
+A simple spreadsheet can give the input values easily
+Two spreadsheet files are provided to achieve this goal
 
 
 
