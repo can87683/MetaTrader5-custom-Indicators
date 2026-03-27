@@ -1,6 +1,9 @@
 # MetaTrader5-custom-Indicators
 MetaTrader5 custom Indicators
 
+# BSD-C-3 License
+
+
 # 20%_lines indicators
 
 This indicator creates lines every 20% increase from base line figure with computed figures above the lines.
